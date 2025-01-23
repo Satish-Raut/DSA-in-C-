@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "cmath": "cpp",
+        "new": "cpp",
+        "code_301": "cpp"
+    }
+}
